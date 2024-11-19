@@ -9,7 +9,7 @@ categories = ["multimedia::audio"]
 repository = "https://github.com/opensound-org/template-rs"
 homepage = "https://github.com/opensound-org/template-rs"
 description = """
-Template for Rust repositories used by `opensound-org`.
+🚧 Template for Rust repositories used by `opensound-org` (WIP, nothing usable for now).
 """
 edition = "2021"
 
