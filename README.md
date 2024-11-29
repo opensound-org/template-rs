@@ -35,6 +35,10 @@ Latest version: [v0.0.1](https://github.com/opensound-org/template-rs/releases/t
 ## How
 🚧 (Under construction...)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=opensound-org/template-rs&type=Date)](https://star-history.com/#opensound-org/template-rs&Date)
+
 # License
 
 This project is licensed under either of
