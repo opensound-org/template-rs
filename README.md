@@ -55,7 +55,7 @@ at your option.
 [Github](https://github.com/opensound-org/template-rs) is our [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth), where we welcome all issues and pull requests.
 
 We also have two downstream read-only mirrors that are [automatically pushed](.github/workflows/mirror.yml):
-- [GitLab](https://gitlab.com/opensound-org/template-rs)
+- [Gitea](https://gitea.29bot.com/opensound-org/template-rs)
 - [Gitee](https://gitee.com/opensound-org/template-rs)
 
 As they are read-only mirrors, please do not initiate any merge or pull requests on these two platforms.
