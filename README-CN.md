@@ -12,7 +12,7 @@
 
 最新版本：[v0.0.1](https://github.com/opensound-org/template-rs/releases/tag/v0.0.1)
 
-[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)](https://deepwiki.ai/chat?repo=opensound-org%2Ftemplate-rs)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/opensound-org/template-rs)
 ![Crates.io Total Downloads](https://img.shields.io/crates/d/template-rs)
 [![Crates.io Dependents](https://img.shields.io/crates/dependents/template-rs)](https://crates.io/crates/template-rs/reverse_dependencies)
 ![GitHub Repo stars](https://img.shields.io/github/stars/opensound-org/template-rs)
@@ -23,7 +23,7 @@
 ![MSRV (git)](https://img.shields.io/badge/git--msrv-1.85.0-blue)
 [![dependency status (git)](https://deps.rs/repo/github/opensound-org/template-rs/status.svg?subject=git-deps)](https://deps.rs/repo/github/opensound-org/template-rs)
 
-[![Static Badge](https://img.shields.io/badge/build_with-Rust_1.87.0-dca282)](https://blog.rust-lang.org/2025/02/20/Rust-1.87.0.html)
+[![Static Badge](https://img.shields.io/badge/build_with-Rust_1.87.0-dca282)](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
 
 </div>
 
